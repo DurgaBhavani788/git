@@ -1,1 +1,1 @@
-Hello Git snd Github
+Hello Git snd Github. We are learning git.
